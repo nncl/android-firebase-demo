@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "257072958770",
+    "firebase_url": "https://fir-android-da130.firebaseio.com",
+    "project_id": "fir-android-da130",
+    "storage_bucket": "fir-android-da130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257072958770:android:049f88ec205deae2",
+        "android_client_info": {
+          "package_name": "com.example.guest.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257072958770-5drll65bmfbgbm60b4m7mlafhch2ikbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmJiEYkg9CAJN1sl1R8frWiP9zo2vSojM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
