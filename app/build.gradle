@@ -25,4 +25,10 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.1.1'
     compile 'com.android.support:design:23.1.1'
+
+    //Firebase Core
+    compile 'com.google.firebase:firebase-core:9.0.2'
+
+    //Firebase Cloud Message
+    compile 'com.google.firebase:firebase-messaging:9.0.2'
 }
