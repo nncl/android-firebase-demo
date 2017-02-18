@@ -3,6 +3,8 @@
 - [Google Firebase Account](https://console.firebase.google.com/)
 - [Google Console](https://play.google.com/apps/publish/?hl=pt-BR&dev_acc=17440378349579235652#AppListPlace)
 - Fabric, by Twitter
+- [Heider's IoT project](https://github.com/heiderlopes/AndroidIoT)
+    - Check structure
 
 ## Keys
 
